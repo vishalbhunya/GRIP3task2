@@ -14,4 +14,4 @@ Dataset : https://bit.ly/3kXTdox
 
 Language : Python
 
-IDE : Google Colab
+IDE : Jupyter Notebook
